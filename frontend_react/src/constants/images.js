@@ -8,7 +8,9 @@ import flutter from '../assets/flutter.png';
 import git from '../assets/git.png';
 import graphql from '../assets/graphql.png';
 import html from '../assets/html.png';
+import java from '../assets/java.png';
 import javascript from '../assets/javascript.png';
+import kafka from '../assets/kafka.png';
 import mu5 from '../assets/mu5.png';
 import node from '../assets/node.png';
 import python from '../assets/python.png';
@@ -46,7 +48,9 @@ export default {
     git,
     graphql,
     html,
+    java,
     javascript,
+    kafka,
     mu5,
     node,
     python,
