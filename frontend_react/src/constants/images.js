@@ -8,10 +8,12 @@ import flutter from '../assets/flutter.png';
 import git from '../assets/git.png';
 import graphql from '../assets/graphql.png';
 import html from '../assets/html.png';
-import java from '../assets/java.png';
+
 import javascript from '../assets/javascript.png';
-import kafka from '../assets/kafka.png';
+
+
 import mu5 from '../assets/mu5.png';
+
 import node from '../assets/node.png';
 import python from '../assets/python.png';
 import react from '../assets/react.png';
@@ -37,6 +39,19 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+import kafka from '../assets/kafka.png';
+import java from '../assets/java.png';
+import mcd from '../assets/mcd.png';
+import toDoListApp from '../assets/toDoListApp.png';
+import nicoletFear from '../assets/nicoletFear.gif';
+import uwmadison from '../assets/uwmadison.png';
+import uwmadisoncs from '../assets/uwmadisoncs.png';
+import weatherApp from '../assets/weatherApp.png';
+import ai from '../assets/ai.png';
+import doit from '../assets/doit.png';
+
+
+
 export default {
     email,
     mobile,
@@ -48,9 +63,7 @@ export default {
     git,
     graphql,
     html,
-    java,
     javascript,
-    kafka,
     mu5,
     node,
     python,
@@ -73,4 +86,15 @@ export default {
     nb,
     skype,
     spotify,
+
+    kafka,
+    java,
+    toDoListApp,
+    mcd,
+    nicoletFear,
+    uwmadison,
+    uwmadisoncs,
+    weatherApp,
+    ai,
+    doit,
 };
