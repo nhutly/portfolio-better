@@ -49,6 +49,33 @@ import uwmadisoncs from '../assets/uwmadisoncs.png';
 import weatherApp from '../assets/weatherApp.png';
 import ai from '../assets/ai.png';
 import doit from '../assets/doit.png';
+import nhutProfile from '../assets/nhutProfile.png'
+
+import cSharp from '../assets/cSharp.png'
+import docker from '../assets/docker.png'
+import eclipse from '../assets/eclipse.png'
+import github from '../assets/github.png'
+import intelliJ from '../assets/intelliJ.png'
+import jetBrains from '../assets/jetBrains.png'
+import jira from '../assets/jira.png'
+import mySql from '../assets/mySql.png'
+import ssh from '../assets/ssh.png'
+import terminal from '../assets/terminal.png'
+import terraform from '../assets/terraform.png'
+import vim from '../assets/vim.png'
+import vsCode from '../assets/vsCode.png'
+import xUnit from '../assets/xUnit.png'
+import plantUml from '../assets/plantUml.png'
+import putty from '../assets/putty.png'
+import r from '../assets/r.png'
+import sanity from '../assets/sanity.png'
+import sql from '../assets/sql.png'
+import bitbucket from '../assets/bitbucket.png'
+import bootstrap from '../assets/bootstrap.png'
+import c from '../assets/c.png'
+import confluence from '../assets/confluence.png'
+
+
 
 
 
@@ -97,4 +124,29 @@ export default {
     weatherApp,
     ai,
     doit,
+    nhutProfile,
+
+    cSharp,
+    docker,
+    eclipse,
+    github,
+    intelliJ,
+    jetBrains,
+    jira,
+    mySql,
+    ssh,
+    terminal,
+    terraform,
+    vim,
+    vsCode,
+    xUnit,
+    plantUml,
+    putty,
+    r,
+    sanity,
+    sql,
+    bitbucket,
+    bootstrap,
+    c,
+    confluence,
 };
